@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+
+    <!-- xml의 주석은 이런식 -->
+    <string name="word_dog">개</string>
+    <string name="word_pig">돼지</string>
+    <string name="word_horse">말</string>
+
+    <string name="radio_rb3">라3</string>
+    <string name="radio_rb2">라2</string>
+    <string name="radio_rb">라1</string>
+
+
+</resources>
